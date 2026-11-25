@@ -1,0 +1,11 @@
+room_id,room_name,block,capacity,facilities,smart_facilities,base_power_kw,hvac_power_kw,hvac_kw,lighting_kw,display_kw,total_power_kw,sub_meter_id,smart_tier
+1,Smart-CR-101,Block-A (Academic),35,"Smart_Board,IoT_HVAC,Smart_Lighting","Smart_Board,IoT_HVAC,Smart_Lighting",1.2,2.8,2.8,0.5,0.7,4.0,SM-A101,Tier-2
+2,Smart-CR-102,Block-A (Academic),45,"Smart_Board,IoT_HVAC,Smart_Lighting,Audio_System","Smart_Board,IoT_HVAC,Smart_Lighting,Audio_System",1.5,3.2,3.2,0.6,0.9,4.7,SM-A102,Tier-2
+3,Smart-CR-103,Block-A (Academic),55,"Smart_Board,IoT_HVAC,Smart_Lighting,Lecture_Capture","Smart_Board,IoT_HVAC,Smart_Lighting,Lecture_Capture",1.8,3.8,3.8,0.7,1.1,5.6,SM-A103,Tier-1
+4,AI-Studio-201,Block-B (Computing),40,"Smart_Board,IoT_HVAC,AI_Workstations,Lecture_Capture","Smart_Board,IoT_HVAC,AI_Workstations,Lecture_Capture",3.2,3.5,3.5,0.8,2.4,6.7,SM-B201,Tier-1
+5,IoT-Seminar-Hall,Block-B (Computing),75,"Smart_Board,IoT_HVAC,Smart_Lighting,Lecture_Capture,Audio_System","Smart_Board,IoT_HVAC,Smart_Lighting,Lecture_Capture,Audio_System",2.5,5.5,5.5,1.1,1.4,8.0,SM-B75,Tier-1
+6,Smart-CR-203,Block-A (Academic),30,"Smart_Board,IoT_HVAC,Smart_Lighting","Smart_Board,IoT_HVAC,Smart_Lighting",1.0,2.5,2.5,0.4,0.6,3.5,SM-A203,Tier-3
+7,Interactive-Lab-301,Block-C (Science & Tech),60,"Smart_Board,IoT_HVAC,AI_Workstations,Audio_System","Smart_Board,IoT_HVAC,AI_Workstations,Audio_System",3.0,4.5,4.5,0.9,2.1,7.5,SM-C301,Tier-1
+8,Multimedia-Auditorium,Block-C (Science & Tech),100,"Smart_Board,IoT_HVAC,Smart_Lighting,Lecture_Capture,Audio_System","Smart_Board,IoT_HVAC,Smart_Lighting,Lecture_Capture,Audio_System",4.0,8.0,8.0,1.5,2.5,12.0,SM-C100,Tier-1
+9,Executive-CR-402,Block-B (Computing),50,"Smart_Board,IoT_HVAC,Smart_Lighting,Audio_System","Smart_Board,IoT_HVAC,Smart_Lighting,Audio_System",1.6,3.6,3.6,0.6,1.0,5.2,SM-B402,Tier-2
+10,Smart-CR-205,Block-A (Academic),65,"Smart_Board,IoT_HVAC,Smart_Lighting,Lecture_Capture","Smart_Board,IoT_HVAC,Smart_Lighting,Lecture_Capture",2.0,4.2,4.2,0.8,1.2,6.2,SM-A205,Tier-1

@@ -1,0 +1,6 @@
+bill_month,account_number,sanctioned_demand_kva,recorded_demand_kva,normal_rate_inr_kwh,peak_rate_inr_kwh,fixed_demand_charge_inr,total_units_consumed_kwh,total_bill_amount_inr,tariff_category
+July 2026,HT-BLR-PU-9042,250,188.5,8.50,10.50,49010.00,34200,339710.00,HT-2b (Educational)
+August 2026,HT-BLR-PU-9042,250,192.0,8.50,10.50,49920.00,35800,354220.00,HT-2b (Educational)
+September 2026,HT-BLR-PU-9042,250,196.4,8.50,10.50,51064.00,37100,366414.00,HT-2b (Educational)
+October 2026,HT-BLR-PU-9042,250,204.2,8.50,10.50,53092.00,39400,387992.00,HT-2b (Educational)
+November 2026,HT-BLR-PU-9042,250,185.0,8.50,10.50,48100.00,33600,333700.00,HT-2b (Educational)

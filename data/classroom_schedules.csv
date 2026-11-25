@@ -1,0 +1,13 @@
+schedule_id,course_code,class_name,department,students,day,time_slot,slot_tariff_type,required_facility
+1,MAT4002,MCA_3rd_Sem_OR,MCA,52,Monday,09:00-10:00,Normal,Smart_Board
+2,BCA5002,BCA_5th_Sem_Cloud,BCA,35,Monday,09:00-10:00,Normal,Smart_Board
+3,CSE7001,MTech_AI_DeepLearning,M.Tech,28,Monday,10:00-11:00,Peak,AI_Workstations
+4,MCA1004,MCA_1st_Sem_Python,MCA,72,Monday,10:00-11:00,Peak,Lecture_Capture
+5,BCA3001,BCA_3rd_Sem_DBMS,BCA,42,Monday,11:00-12:00,Peak,Smart_Board
+6,CSE4003,BTech_CyberSecurity,B.Tech,58,Monday,11:00-12:00,Peak,Audio_System
+7,MCA2002,MCA_2nd_Sem_WebTech,MCA,48,Tuesday,09:00-10:00,Normal,Smart_Board
+8,BCA1001,BCA_1st_Sem_Maths,BCA,30,Tuesday,09:00-10:00,Normal,Smart_Board
+9,CSE7004,MTech_DataScience,M.Tech,25,Tuesday,10:00-11:00,Peak,AI_Workstations
+10,MCA4001,MCA_Final_ProjectReview,MCA,65,Tuesday,10:00-11:00,Peak,Lecture_Capture
+11,BCA4002,BCA_4th_Sem_Java,BCA,38,Tuesday,11:00-12:00,Peak,Smart_Board
+12,CSE4005,BTech_IoT_Robotics,B.Tech,54,Tuesday,11:00-12:00,Peak,Smart_Board

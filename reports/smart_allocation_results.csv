@@ -1,0 +1,13 @@
+Class_ID,Class,Department,Students,Day,Time,Required_Facility,Priority,Room,Block,Capacity,Empty_Seats,Total_Power_kW,Energy_kWh,Energy_Cost_INR,Utilization_Pct
+1,MCA_3rd_Sem_OR,MCA,52,Monday,09:00-10:00,Smart_Board,High,Smart-CR-103,Block-A (Academic),55,3,5.6,5.6,47.6,94.55
+2,BCA_5th_Sem_Cloud,BCA,35,Monday,09:00-10:00,Smart_Board,Medium,Smart-CR-101,Block-A (Academic),35,0,4.0,4.0,34.0,100.0
+3,MTech_AI_DeepLearning,M.Tech,28,Monday,10:00-11:00,AI_Workstations,High,AI-Studio-201,Block-B (Computing),40,12,6.7,6.7,56.95,70.0
+4,MCA_1st_Sem_Python,MCA,72,Monday,10:00-11:00,Lecture_Capture,High,IoT-Seminar-Hall,Block-B (Computing),75,3,8.0,8.0,68.0,96.0
+5,BCA_3rd_Sem_DBMS,BCA,42,Monday,11:00-12:00,Smart_Board,Normal,Smart-CR-102,Block-A (Academic),45,3,4.7,4.7,39.95,93.33
+6,BTech_CyberSecurity,B.Tech,58,Monday,11:00-12:00,Audio_System,High,Interactive-Lab-301,Block-C (Science & Tech),60,2,7.5,7.5,63.75,96.67
+7,MCA_2nd_Sem_WebTech,MCA,48,Tuesday,09:00-10:00,Smart_Board,Medium,Executive-CR-402,Block-B (Computing),50,2,5.2,5.2,44.2,96.0
+8,BCA_1st_Sem_Maths,BCA,30,Tuesday,09:00-10:00,Smart_Board,Normal,Smart-CR-203,Block-A (Academic),30,0,3.5,3.5,29.75,100.0
+9,MTech_DataScience,M.Tech,25,Tuesday,10:00-11:00,AI_Workstations,High,AI-Studio-201,Block-B (Computing),40,15,6.7,6.7,56.95,62.5
+10,MCA_Final_ProjectReview,MCA,65,Tuesday,10:00-11:00,Lecture_Capture,High,Smart-CR-205,Block-A (Academic),65,0,6.2,6.2,52.7,100.0
+11,BCA_4th_Sem_Java,BCA,38,Tuesday,11:00-12:00,Smart_Board,Medium,Smart-CR-102,Block-A (Academic),45,7,4.7,4.7,39.95,84.44
+12,BTech_IoT_Robotics,B.Tech,54,Tuesday,11:00-12:00,Smart_Board,High,Smart-CR-103,Block-A (Academic),55,1,5.6,5.6,47.6,98.18
